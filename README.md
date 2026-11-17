@@ -4,4 +4,6 @@ Master's module where I am developing practical and theoretical skills in Comput
 - Data structures
 - Control flow + loops
 - functions, modules, and numpy
-- complexity
+- complexity, recursion
+- error handling
+- matplotlib
