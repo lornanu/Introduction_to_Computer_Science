@@ -6,4 +6,6 @@ Master's module where I am developing practical and theoretical skills in Comput
 - functions, modules, and numpy
 - complexity, recursion
 - error handling
+- regular expression
 - matplotlib
+- numpy + pandas
